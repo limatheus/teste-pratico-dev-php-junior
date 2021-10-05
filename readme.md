@@ -22,12 +22,14 @@ Você deve criar uma aplicação com os requisitos abaixo, utilizando framework 
 - Todas as listagens devem possuir busca e paginação de 20 items
 
 ### Plus
-Não é obrigatório, mas será muito bom se você: 
+ **Não é obrigatório, mas será muito bom se você:**
 - Programar em Inglês
-- Utilizar as melhores práticas da Orientação a Objetos.
-- As tabelas do banco de dados criadas através de migrations com as devidas nomenclaturas em inglês.
+- Utilizar as melhores práticas da Orientação a Objetos
+- Utilizar seeds e factories
+- As tabelas do banco de dados criadas através de migrations com as devidas nomenclaturas em inglês
 - Utilizar VueJS
 - Utilizar Bootstrap
+- Criar uma API REST para os recursos criados
 
 ### Observações
 Não tenha pressa! O que será avaliado é a qualidade do código não a velocidade de desenvolvimento. Portanto, qualquer generator / scaffolding de CRUD, MVC, etc, torna-se desnecessário.
