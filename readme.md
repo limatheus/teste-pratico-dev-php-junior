@@ -18,7 +18,8 @@ Você deve criar uma aplicação com os requisitos abaixo,  utilizando framework
 
 - Autenticação por login e senha.
 - CRUD de usuários (criação, exibição, atualização e deleção)
-- Listagem filtragem e paginação de 20 items
+- Gereciamento de tarefas relacionadas usuário, o usuário deve ser capaz de criar, editar, remover e marcar a tarefa como concluída. O usuário não pode ter acesso as tarefas de outro usuário.
+- Todas as listagens devem possuir busca e paginação de 20 items
 
 ### Plus
 Não é obrigatório, mas será muito bom se você: 
