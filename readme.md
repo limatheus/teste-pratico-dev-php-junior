@@ -27,8 +27,8 @@ Você deve criar um gerenciador de tarefas conforme os requisitos abaixo, utiliz
 - Utilizar as melhores práticas da Orientação a Objetos
 - Utilizar seeds e factories
 - As tabelas do banco de dados criadas através de migrations com as devidas nomenclaturas em inglês
-- Utilizar VueJS
-- Utilizar Bootstrap
+- Utilizar VueJS / AlpineJS
+- Utilizar Bootstrap ou TailwindCSS
 - Criar uma API REST para os recursos criados
 
 ### Observações
@@ -39,4 +39,4 @@ Não precisa ser complexo, com varias lib’s e etc. O legal é usar o necessár
 Lembrando código de qualidade, você pode e deve fazer o que achar necessário para isso, mesmo que não esteja listado aqui.
 
 ### Conclusão
-Após concluir a aplicação basta enviar o link do projeto no github ou bitbucket através do Whatsapp
+Após concluir a aplicação basta enviar o link do projeto no github ou similar através do Whatsapp ou e-mail matheus.lima@grupokpg.com
